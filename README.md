@@ -1,60 +1,28 @@
-<h1 align="center">Hi 👋, I'm Samrakshan</h1>
-<h3 align="center">I break, analyze, and defend systems</h3>
+<h1 align="center">Hello Friend 👋, I'm Samrakshan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhaambo&label=Profile%20views&color=0e75b6&style=flat" alt="zhaambo" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=600&color=FF0000&center=true&vCenter=true&width=600&lines=SOC+L1+Analyst;Pentester;Security+Analyst;Mr.+Robot" />
+</p>
+
+---
+
+### About
+
+Security practitioner focused on SOC operations, pentesting, and network defense. Building, breaking, and analyzing systems through CTFs and real-world security projects. Also exploring software development and pursuing a Diploma in Programming at IIT Madras.
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/p-b-samrakshan-871728278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p b samrakshan" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Samrakshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zhaambo" height="30" width="40" /></a>
-</p>
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=24&
-    pause=800&
-    color=00FF9C&
-    center=true&
-    vCenter=true&
-    width=600&
-    lines=SOC+L1+Analyst;Pentester;Security+Analyst;Mr.+Robot"
-  />
+<a href="https://www.leetcode.com/zhaambo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zhaambo" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/zhaambo" target="blank">
+  <img align="center" src="https://tryhackme.com/img/favicon.png" alt="TryHackMe" height="40" width="40" />
+</a>
 </p>
 
----
 
-### 👨‍💻 About Me
-
-- 🎯 SOC L1 Analyst in training  
-- 🛠️ Pentesting & CTF Enthusiast  
-- 🔍 Security Analyst mindset  
-- 💻 Linux & Network Security  
-- 😈 Mr. Robot mode occasionally enabled  
-
----
-
-### 🏴‍☠️ TryHackMe
-
-Hack with me here:  
-👉 https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME
-
----
-
-### 🐧 Terminal
-
-```bash
-samrakshan@security:~$ whoami
-P B Samrakshan
-
-### 👨‍💻 About Me
-
-- 🎯 SOC L1 Analyst in training  
-- 🛠️ Pentesting & CTF Enthusiast  
-- 🔍 Security Analyst mindset  
-- 💻 Linux & Network Security  
-- 😈 Mr. Robot mode occasionally enabled  
 
 ---
 <h3 align="left">Languages and Tools:</h3>
@@ -63,4 +31,3 @@ P B Samrakshan
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhaambo&show_icons=true&locale=en&layout=compact" alt="zhaambo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaambo&" alt="zhaambo" /></p>
-
