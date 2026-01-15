@@ -6,9 +6,47 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/p-b-samrakshan-871728278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p b samrakshan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zhaambo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zhaambo" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Samrakshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zhaambo" height="30" width="40" /></a>
 </p>
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=24&
+    pause=800&
+    color=00FF9C&
+    center=true&
+    vCenter=true&
+    width=600&
+    lines=SOC+L1+Analyst;Pentester;Security+Analyst;Mr.+Robot"
+  />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎯 SOC L1 Analyst in training  
+- 🛠️ Pentesting & CTF Enthusiast  
+- 🔍 Security Analyst mindset  
+- 💻 Linux & Network Security  
+- 😈 Mr. Robot mode occasionally enabled  
+
+---
+
+### 🏴‍☠️ TryHackMe
+
+Hack with me here:  
+👉 https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME
+
+---
+
+### 🐧 Terminal
+
+```bash
+samrakshan@security:~$ whoami
+P B Samrakshan
 
 ### 👨‍💻 About Me
 
