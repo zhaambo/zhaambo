@@ -1,4 +1,6 @@
 name: TryHackMe Update Badge
+permissions:
+  contents: write
 
 on:
   schedule:
