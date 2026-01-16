@@ -26,7 +26,7 @@
 ![Elastic](https://img.shields.io/badge/Elastic-000?style=for-the-badge&logo=elastic)
 
 ---
-![tryhackme stats](https://raw.githubusercontent.com/zhaambo/zhaambo/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/zhaambo/zhaambo/main/assets/thm_propic.png)
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaambo&" alt="zhaambo" /></p>
