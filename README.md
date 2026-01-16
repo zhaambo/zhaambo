@@ -1,6 +1,6 @@
-## <span style="font-family: 'Share Tech Mono', monospace; color:#00aaff;">Hi 👋 Samrakshan Here!</span>
+<h2>Hi 👋 Samrakshan Here!</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=200&color=00FF41&vCenter=true&cursor=true&width=500&lines=SOC+L1+Analyst;Pentester;Security+Analyst;Threat+Hunter;Mr.+Robot" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=200&color=00FF41&vCenter=true&cursor=true&width=500&lines=SOC+L1+Analyst;Pentester;Security+Analyst;Threat+Hunter" />
 
 ### About Me
 
@@ -26,10 +26,12 @@
 ![Elastic](https://img.shields.io/badge/Elastic-000?style=for-the-badge&logo=elastic)
 
 ---
-![tryhackme stats](https://raw.githubusercontent.com/zhaambo/zhaambo/main/assets/thm_propic.png)
----
+<p>
+<a href="https://tryhackme.com/p/zhaambo">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/zhaambo.png" alt="Your Image Badge" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaambo&" alt="zhaambo" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaambo&" alt="zhaambo" /></p>
 
 ---
 ### Reach Me At
