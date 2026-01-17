@@ -1,4 +1,4 @@
-<h2>Hi 👋 Samrakshan Here!</h2>
+<h2>Hi 👋 Samrakshan Here</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=200&color=00FF41&vCenter=true&cursor=true&width=500&lines=SOC+L1+Analyst;Pentester;Security+Analyst;Threat+Hunter" />
 
