@@ -30,8 +30,10 @@
 <a href="https://tryhackme.com/p/zhaambo">
   <img src="https://tryhackme-badges.s3.amazonaws.com/zhaambo.png" alt="Your Image Badge" />
 </a>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaambo&" alt="zhaambo" /></p>
+  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=zhaambo&theme=dark)](https://git.io/streak-stats)
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaambo&" alt="zhaambo" /></p> -->
+</p>
 
 ---
 ### Reach Me At
