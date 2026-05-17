@@ -1,10 +1,10 @@
 <h2>Hi 👋 Samrakshan Here!</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=200&color=00FF41&vCenter=true&cursor=true&width=500&lines=SOC+L1+Analyst;Pentester;Security+Analyst;Threat+Hunter;Top+5%+TryHackMe" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=200&color=00FF41&vCenter=true&cursor=true&width=500&lines=Pentester;Security+Analyst;Threat+Hunter;SOC+L1+Analyst;Top+4%+TryHackMe" />
 
 ### About Me
 
-- 🛡️ Focused on SOC operations, pentesting, and network defense  
+- 🛡️ Focused on pentesting,SOC operations and network defense  
 - ⚔️ Building, breaking, and analyzing systems through CTFs and security projects  
 - 🔍 Interested in real-world attack detection and defensive security  
 - 💻 Exploring software development alongside cybersecurity  
